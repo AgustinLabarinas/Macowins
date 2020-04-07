@@ -1,0 +1,9 @@
+D:\Desktop\Macowins\Macowins\bin\Debug\Macowins.exe.config
+D:\Desktop\Macowins\Macowins\obj\Debug\Macowins.Form1.resources
+D:\Desktop\Macowins\Macowins\obj\Debug\Macowins.Properties.Resources.resources
+D:\Desktop\Macowins\Macowins\obj\Debug\Macowins.csproj.GenerateResource.Cache
+D:\Desktop\Macowins\Macowins\bin\Debug\Macowins.exe
+D:\Desktop\Macowins\Macowins\bin\Debug\Macowins.pdb
+D:\Desktop\Macowins\Macowins\obj\Debug\Macowins.exe
+D:\Desktop\Macowins\Macowins\obj\Debug\Macowins.pdb
+D:\Desktop\Macowins\Macowins\obj\Debug\Macowins.csprojResolveAssemblyReference.cache
